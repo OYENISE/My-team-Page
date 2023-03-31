@@ -1,0 +1,70 @@
+.top-head {
+    display: flex;
+    justify-content: center;
+}
+
+.crew {
+    padding-right: 400px;
+    margin-top: 50px;
+    margin-left: 250px;
+    font-weight: bold;
+    font-size: large;
+    font-family: 'PT Serif', serif;
+
+}
+
+.who-1 {
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+    font-size: 18px;
+    font-style: normal;
+    color: black;
+}
+
+.who-2 {
+    font-family: 'PT Serif', serif;
+    font-weight: lighter;
+    font-size: 18px;
+
+
+}
+
+
+
+.grid {
+display: grid;
+grid-template-columns: 1fr 1fr 1fr;
+justify-content: center;
+align-items: center;
+border: 1px;
+grid-gap: 10px;
+}
+
+.pictures {
+    height: 300px;
+    width: 200px;
+}
+
+.pic-1 {
+    padding-left: 400px;
+}
+
+.pic-2 {
+    padding-right: 400px;
+}
+
+.pic-3 {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.down {
+    margin-top: 150px;
+}
+
+
+
+    
+
+
+
