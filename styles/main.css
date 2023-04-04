@@ -4,12 +4,12 @@
 }
 
 .crew {
-    padding-right: 400px;
+    padding-right: 120px;
     margin-top: 50px;
-    margin-left: 250px;
     font-weight: bold;
     font-size: large;
     font-family: 'PT Serif', serif;
+    margin-left: 150px;
 
 }
 
@@ -19,25 +19,22 @@
     font-size: 18px;
     font-style: normal;
     color: black;
+    padding-right: 200px;
 }
 
 .who-2 {
     font-family: 'PT Serif', serif;
     font-weight: lighter;
-    font-size: 18px;
-
-
+    font-size: smaller;
 }
 
-
-
 .grid {
-display: grid;
-grid-template-columns: 1fr 1fr 1fr;
-justify-content: center;
-align-items: center;
-border: 1px;
-grid-gap: 10px;
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   justify-content: center;
+   align-items: center;
+   border: 1px;
+   grid-gap: 10px;
 }
 
 .pictures {
@@ -56,11 +53,81 @@ grid-gap: 10px;
 .pic-3 {
     padding-left: 50px;
     padding-right: 50px;
+
+
 }
 
 .down {
-    margin-top: 150px;
+    margin-top: 200px;
+
 }
+
+.who {
+    padding-right: 150px;
+}
+
+.foot {
+    margin: auto;
+    text-align: center;
+}
+
+.vertical {
+    position: relative;
+    transform: rotate(90deg);
+}
+
+.bill {
+    left: 320px;
+    bottom: 50px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+.sarah {
+    left: 120px;
+    top: 160px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+.shea {
+    top: 350px;
+    right: 80px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+.skylah {
+    left: 320px;
+    bottom: 45px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+.griff {
+    left: 120px;
+    top: 160px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: x-small;
+}
+
+.stan {
+    top: 350px;
+    right: 80px;
+    font-family: 'PT Serif', serif;
+    font-weight: 400;
+    font-size: x-small;
+
+}
+
+
+
+
 
 
 
